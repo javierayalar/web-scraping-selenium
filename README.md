@@ -1,12 +1,13 @@
-## Web Scraping usando Selenium en Python
+# Web Scraping using Selenium in Python
 
-Este ejemplo consiste en poder extraer los datos de un sitio web de clima y almacenarlo en un archivo csv.
-**Selenium** es un entorno de pruebas de software para aplicaciones basadas en la web.
+This example consists of being able to extract the data from a weather website and store it in a csv file.
 
-Requisitos:
-- Tener instalado Python.
+**Selenium** is a software testing environment for web-based applications.
+
+Requirements:
+- Have installed Python.
 - WebDriver para Chrome.
 
-Librerías de Python utilizadas:
+Python libraries used:
 - Selenium
 - Pandas
